@@ -19,6 +19,8 @@ SCRIPT_DIR="$(cd "$(dirname "$0")" && pwd)"
 cp "${SCRIPT_DIR}/skill.yaml" "${SKILL_DIR}/"
 cp "${SCRIPT_DIR}/system_prompt.md" "${SKILL_DIR}/"
 cp "${SCRIPT_DIR}/knowledge_base.md" "${SKILL_DIR}/"
+cp "${SCRIPT_DIR}/recipes_data.md" "${SKILL_DIR}/"
+cp "${SCRIPT_DIR}/recipes_overview.md" "${SKILL_DIR}/"
 
 echo "✓ 文件已复制到 ${SKILL_DIR}"
 echo ""

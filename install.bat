@@ -18,6 +18,8 @@ REM 复制文件
 copy "%~dp0skill.yaml" "%SKILL_DIR%\"
 copy "%~dp0system_prompt.md" "%SKILL_DIR%\"
 copy "%~dp0knowledge_base.md" "%SKILL_DIR%\"
+copy "%~dp0recipes_data.md" "%SKILL_DIR%\"
+copy "%~dp0recipes_overview.md" "%SKILL_DIR%\"
 
 echo.
 echo [OK] 文件已复制到 %SKILL_DIR%
