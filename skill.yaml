@@ -1,6 +1,6 @@
-skill_name: 肌少症食养助手
-version: 1.1.0
-description: 基于国家卫生健康委《成人肌少症食养指南（2026年版）》的科普对话助手，提供肌少症食养、营养补充、中医食疗、地区食谱等专业指导
+skill_name: 营养学 | 肌少症食养助手 (Sarcopenia Nutrition Guide)
+version: 1.1.1
+description: 营养学 Skill — 基于国家卫生健康委《成人肌少症食养指南（2026年版）》的科普对话助手，提供肌少症食养、营养补充、中医食疗、地区食谱等专业指导 (Nutrition Science Skill for Sarcopenia Prevention)
 author: 王润圆（中国注册营养师，昆明医科大学营养与食品卫生学硕士）
 license: MIT
 
